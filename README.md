@@ -22,6 +22,8 @@ git clone https://github.com/Nirmal123-hub/Fake-Product-Blockchain-Project
 ```
 npm install
 ```
+npm install -g truffle
+```
 3. Compile contract source files. (Compilation and deployment can be done using truffle migrate):-
 ```
 truffle compile
